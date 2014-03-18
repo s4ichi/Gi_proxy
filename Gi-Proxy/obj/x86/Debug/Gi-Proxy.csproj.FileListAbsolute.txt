@@ -1,0 +1,79 @@
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\DynamicAutoGraphApplication.exe.config
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\DynamicAutoGraphApplication.exe
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\DynamicAutoGraphApplication.pdb
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\DynamicAutoGraphApplication.MainForm.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\DynamicAutoGraphApplication.Properties.Resources.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\DynamicAutoGraphApplication.SettingForm.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\DynamicAutoGraphApplication.exe
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\DynamicAutoGraphApplication.pdb
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\Gi_Proxy.exe.config
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.exe
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\bin\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\deskChange\asd\8_16Gi-Proxy\Gi-Proxy\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Gi-Proxyプロジェクト\立命館Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+E:\Gi-Proxyプロジェクト\立命館Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+E:\Gi-Proxyプロジェクト\立命館Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\立命館Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+C:\deskChange\asd\立命館Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+C:\deskChange\asd\立命館Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.manifest
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.application
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe.manifest
+C:\deskChange\asd\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.application
+F:\saichi_U20\u20DVD\Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+F:\saichi_U20\u20DVD\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+F:\saichi_U20\u20DVD\Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe.config
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.exe
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.pdb
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.MainForm.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.Properties.Resources.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\Gi_Proxy.SettingForm.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.exe
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Debug\Gi_Proxy.pdb

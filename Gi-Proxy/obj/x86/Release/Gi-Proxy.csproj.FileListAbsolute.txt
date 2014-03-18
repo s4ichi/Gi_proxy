@@ -1,0 +1,44 @@
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Release\DynamicAutoGraphApplication.exe.config
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Release\DynamicAutoGraphApplication.exe
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\bin\Release\DynamicAutoGraphApplication.pdb
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\ResolveAssemblyReference.cache
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\DynamicAutoGraphApplication.MainForm.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\DynamicAutoGraphApplication.Properties.Resources.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\DynamicAutoGraphApplication.SettingForm.resources
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\GenerateResource.read.1.tlog
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\GenerateResource.write.1.tlog
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\DynamicAutoGraphApplication.exe
+C:\deskChange\asd\8_13Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\DynamicAutoGraphApplication.pdb
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Release\Gi_Proxy.exe.config
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Release\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\bin\Release\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\ResolveAssemblyReference.cache
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\GenerateResource.read.1.tlog
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\GenerateResource.write.1.tlog
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\DynamicAutoGraphApplication\obj\x86\Release\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Release\Gi_Proxy.exe.config
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Release\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\bin\Release\Gi_Proxy.pdb
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\Gi_Proxy.MainForm.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\Gi_Proxy.Properties.Resources.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\Gi_Proxy.SettingForm.resources
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\Gi_Proxy.exe
+C:\deskChange\asd\Gi-Proxy\Gi-Proxy\obj\x86\Release\Gi_Proxy.pdb
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\Gi_Proxy.MainForm.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\Gi_Proxy.Properties.Resources.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\Gi_Proxy.SettingForm.resources
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\Gi_Proxy.exe
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\obj\x86\Release\Gi_Proxy.pdb
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Release\Gi_Proxy.exe.config
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Release\Gi_Proxy.exe
+C:\Documents and Settings\saichi\デスクトップ\最新版Gi-Proxyプロジェクト\Gi-Proxy\bin\Release\Gi_Proxy.pdb
